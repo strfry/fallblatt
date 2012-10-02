@@ -1,0 +1,2 @@
+white   :  0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ          *-.:
+yellow  : 			               0123456789    :
